@@ -1,2 +1,2 @@
 # cloudspannerecosystem.github.io
-GitHub pages
+Static website content for http://www.cloudspannerecosystem.dev.
