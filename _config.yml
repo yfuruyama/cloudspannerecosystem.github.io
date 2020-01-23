@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 title: Cloud Spanner Ecosystem
 description: An open source community for Cloud Spanner
 github:
-  is_project_page: false
+  repository_url: https://github.com/cloudspannerecosystem
