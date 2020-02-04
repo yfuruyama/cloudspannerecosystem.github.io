@@ -48,6 +48,14 @@ links:
 * [whitepaper](https://github.com/cloudspannerecosystem/harbourbridge/blob/master/whitepaper.md)
 * [open issues](https://github.com/cloudspannerecosystem/harbourbridge/issues)
 
+### spanner-cli
+
+spanner-cli is an interactive command line tool, inspired by the `mysql` utility.
+It allows you to control your Cloud Spanner databases with idiomatic database
+commands, such as `SHOW TABLES` or `SELECT/INSERT/UPDATE/DELETE`.
+
+* [GitHub repository](https://github.com/cloudspannerecosystem/spanner-cli)
+
 # Contributing
 
 We'd love to accept your patches and contributions! For details, please check
