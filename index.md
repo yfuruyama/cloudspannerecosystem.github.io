@@ -18,6 +18,11 @@ Spanner developers find your project and contribute to it.
 
 [![Gitter](https://badges.gitter.im/cloudspannerecosystem/community.svg)](https://gitter.im/cloudspannerecosystem/community)
 
+<a href="https://twitter.com/spannerecosys?ref_src=twsrc%5Etfw"
+class="twitter-follow-button" data-show-count="false">Follow
+@spannerecosys</a><script async src="https://platform.twitter.com/widgets.js"
+charset="utf-8"></script>
+
 # Projects
 
 ### SampleDB
@@ -45,6 +50,7 @@ This tool is under active development and will support other source databases in
 the future. If you would like to get involved, please check out the following
 links:
 * [GitHub repository](https://github.com/cloudspannerecosystem/harbourbridge)
+* [blog post](https://opensource.googleblog.com/2020/02/harbourbridge-from-postgresql-to-cloud.html)
 * [whitepaper](https://github.com/cloudspannerecosystem/harbourbridge/blob/master/whitepaper.md)
 * [open issues](https://github.com/cloudspannerecosystem/harbourbridge/issues)
 
