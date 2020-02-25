@@ -62,6 +62,14 @@ commands, such as `SHOW TABLES` or `SELECT/INSERT/UPDATE/DELETE`.
 
 * [GitHub repository](https://github.com/cloudspannerecosystem/spanner-cli)
 
+### wrench
+
+wrench is a schema management tool for Cloud Spanner.
+It manages DDLs for schema migration and provides several schema related features
+like creating / deleting databases and loading schemas from files.
+
+* [GitHub repository](https://github.com/cloudspannerecosystem/wrench)
+
 # Contributing
 
 We'd love to accept your patches and contributions! For details, please check
