@@ -70,6 +70,13 @@ like creating / deleting databases and loading schemas from files.
 
 * [GitHub repository](https://github.com/cloudspannerecosystem/wrench)
 
+### yo
+
+yo is a command-line tool to generate database-specific code to access Cloud Spanner through Go objects instead of SQL queries.
+It does so by fetching schema metadata for a database by querying the [information schema](https://cloud.google.com/spanner/docs/information-schema) and applies Go templates to generate code / models.
+
+* [GitHub repository](https://github.com/cloudspannerecosystem/yo)
+
 # Contributing
 
 We'd love to accept your patches and contributions! For details, please check
