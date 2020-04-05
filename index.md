@@ -62,6 +62,15 @@ commands, such as `SHOW TABLES` or `SELECT/INSERT/UPDATE/DELETE`.
 
 * [GitHub repository](https://github.com/cloudspannerecosystem/spanner-cli)
 
+### PGAdapter
+
+PGAdapter is a client-side Java proxy which translates Postgres wire protocol
+into the Cloud Spanner equivalent. By running this proxy locally, any Postgres
+client (including the SQL command-line client PSQL) should function seamlessly
+by simply pointing its outbound port to the this proxy's inbound port.
+
+* [GitHub repository](https://github.com/cloudspannerecosystem/pgadapter)
+
 ### wrench
 
 wrench is a schema management tool for Cloud Spanner.
