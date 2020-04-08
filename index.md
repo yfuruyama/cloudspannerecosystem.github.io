@@ -62,6 +62,14 @@ commands, such as `SHOW TABLES` or `SELECT/INSERT/UPDATE/DELETE`.
 
 * [GitHub repository](https://github.com/cloudspannerecosystem/spanner-cli)
 
+### spanner-dump
+
+spanner-dump is a command line tool for exporting a Cloud Spanner database in text format.
+This tool can be used for Cloud Spanner service for testing purposes or databases running on [Cloud Spanner Emulator](https://cloud.google.com/spanner/docs/emulator).
+You can import exported databases into Cloud Spanner again with [spanner-cli](https://github.com/cloudspannerecosystem/spanner-cli).
+
+* [GitHub repository](https://github.com/cloudspannerecosystem/spanner-dump)
+
 ### PGAdapter
 
 PGAdapter is a client-side Java proxy which translates Postgres wire protocol
